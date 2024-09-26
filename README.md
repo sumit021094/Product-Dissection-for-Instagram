@@ -1,5 +1,6 @@
 **Instagram Product Dissection & Schema Design**
-****Overview**
+
+**Overview**
 Instagram, founded in 2010 by Kevin Systrom and Mike Krieger, has evolved from a simple photo-sharing app to a global social media phenomenon. Known for its visual storytelling and user-centric features, Instagram connects millions of users worldwide, allowing them to share moments and engage with content that resonates with their interests. Acquired by Facebook, Instagram has continually innovated, offering creative solutions for personal expression, content discovery, and online interaction.
 
 This project dissects the core functionalities of Instagram, explores real-world problems it solves, and presents a detailed schema design that underpins the platform's data management.
