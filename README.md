@@ -1,4 +1,4 @@
-# **Instagram Product Dissection & Schema Design**
+# **Instagram Product Dissection & Schema Design** 
 
 **Overview**
 
