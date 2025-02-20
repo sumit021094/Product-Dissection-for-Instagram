@@ -25,11 +25,17 @@ This project provides an in-depth look at the data structure behind Instagram, b
 **Key Entities:**
 
 User: Represents users on the platform, including fields like UserID, Username, Email, and Bio.
+
 Post: Represents the photos or videos shared by users, with fields like PostID, Caption, Image_URL, and Post_Date.
+
 Comment: Captures user comments on posts, with fields like CommentID, PostID, and Comment_Text.
+
 Like: Represents the likes that posts receive from users, with fields like LikeID, PostID, and Like_Date.
+
 Follower: Tracks connections between users, with fields like FollowerID, FollowingUserID, and Follow_Date.
+
 Hashtag: Categorizes posts using hashtags, with fields like HashtagID and Tag.
+
 PostHashtag: Connects posts to their hashtags, with fields like PostHashtagID, PostID, and HashtagID.
 
 **Relationships:**
